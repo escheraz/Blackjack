@@ -1,4 +1,6 @@
-# A Simple Online Blackjack Implementation, Built with Svelte in Typescript.
+# A Simple Online Blackjack Game
+
+Built with Svelte in Typescript. Card images taken from Wikipedia.
 
 Current Default Rules:
 - Dealer stands on S17
